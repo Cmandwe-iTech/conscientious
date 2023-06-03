@@ -1,5 +1,9 @@
 .create-conatiner{
     text-align: center;
+    height: auto;
+    width: fit-content;
+    box-sizing: border-box;
+    padding: 10px;
 }
 .rec{
     width: fit-content;
