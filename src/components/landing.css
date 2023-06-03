@@ -1,0 +1,27 @@
+.landing {
+  width: 100vw;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+}
+.navbar {
+  height: 10%;
+  background-color: rgb(125, 209, 199);
+}
+.btn {
+  width: fit-content;
+  color: white;
+}
+.main-page {
+  height: 90%;
+  background: url("./wooden.jpg") no-repeat center/cover;
+  height: calc(90vh - 0.1px);
+  text-align: center;
+}
+.main-page h1{
+    margin: 50px auto 0;
+    color: white;
+}
+.main-page img{
+    margin: 10px auto 0;
+}
