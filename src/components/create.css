@@ -1,3 +1,8 @@
 .create-conatiner{
     text-align: center;
 }
+.rec{
+    width: fit-content;
+    height: auto;
+    margin: 10px auto 0;
+}

@@ -18,7 +18,7 @@ const Create = ()=>{
               <input type="text" onChange={(e)=>{setingredients(e.target.value)}}/>
               <p>Recipe Directions</p>
               <input type="text" onChange={(e)=>{setdirection(e.target.value)}}/><br/>
-              <button type="submit">Create new recipe</button>
+              <button type="submit" className="rec">Create new recipe</button>
           </div>
           </form>
         </div>
